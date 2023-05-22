@@ -1,3 +1,4 @@
+科赫曲线雪花效果
 import turtle
 def koch(size, n):
     if n == 0:
